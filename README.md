@@ -4,21 +4,21 @@
 
 A simple Serverless GraphQL API to fetch my details, hosted on Azure.
 
-GraphQL API URL: https://ramanaditya-graphql.azurewebsites.net/graphql?code=mWybiYT9VGKSkNsZvuzMPajaNiMYvbEBhc6LErNr8hnXdeunrqOR7w==
+**GraphQL API URL:** https://ramanaditya-graphql.azurewebsites.net/graphql?code=mWybiYT9VGKSkNsZvuzMPajaNiMYvbEBhc6LErNr8hnXdeunrqOR7w==
 
 
 ## About the Project
-**Medium Article:** 
+**Medium Article:** https://medium.com/@ramanaditya/serverless-with-graphql-c0bf59078303
 
-This article is part of #ServerlessSeptember [https://aka.ms/ServerlessSeptember2020](https://aka.ms/ServerlessSeptember2020). You'll find other helpful articles, detailed tutorials, and videos in this all-things-Serverless content collection. New articles from community members and cloud advocates are published every week from Monday to Thursday through September. 
+This article is part of **#ServerlessSeptember** [https://aka.ms/ServerlessSeptember2020](https://aka.ms/ServerlessSeptember2020). You'll find other helpful articles, detailed tutorials, and videos in this all-things-Serverless content collection. New articles from community members and cloud advocates are published every week from Monday to Thursday through September. 
 
-Find out more about how Microsoft Azure enables your Serverless functions at
+Find out more about how **Microsoft Azure** enables your **Serverless functions** at
 - https://docs.microsoft.com/azure/azure-functions/
 - https://docs.microsoft.com/azure/azure-functions/?WT.mc_id=servsept20-devto-cxaall.
 
 ## Running the Project locally
 ```bash
-func host start
+func start
 ```
 
 ## Query
