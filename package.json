@@ -1,0 +1,26 @@
+{
+  "name": "serverless-graphql",
+  "description": "A simple serverless app leveraging GraphQL API on Azure Platform for fetching my information",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "author": "Aditya Raman",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://bellatrixdata@dev.azure.com/bellatrixdata/serverless-graphql/_git/serverless-graphql"
+  },
+  "keywords": [
+    "serverless",
+    "graphql",
+    "api",
+    "azure",
+    "devops"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-azure-functions": "^2.17.0",
+    "graphql": "^15.3.0"
+  }
+}
