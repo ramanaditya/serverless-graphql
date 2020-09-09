@@ -1,12 +1,14 @@
 # Serverless GraphQL
 
+![](./images/azure_func.png)
+
 A simple Serverless GraphQL API to fetch my details, hosted on Azure.
 
 GraphQL API URL: https://ramanaditya-graphql.azurewebsites.net/graphql?code=mWybiYT9VGKSkNsZvuzMPajaNiMYvbEBhc6LErNr8hnXdeunrqOR7w==
 
 
 ## About the Project
-Medium Article: 
+**Medium Article:** 
 
 This article is part of #ServerlessSeptember [https://aka.ms/ServerlessSeptember2020](https://aka.ms/ServerlessSeptember2020). You'll find other helpful articles, detailed tutorials, and videos in this all-things-Serverless content collection. New articles from community members and cloud advocates are published every week from Monday to Thursday through September. 
 
