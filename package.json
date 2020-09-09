@@ -9,7 +9,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://bellatrixdata@dev.azure.com/bellatrixdata/serverless-graphql/_git/serverless-graphql"
+    "url": "https://github.com/ramanaditya/serverless-graphql.git"
   },
   "keywords": [
     "serverless",
